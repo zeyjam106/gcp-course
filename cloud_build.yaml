@@ -25,7 +25,7 @@ steps:
   id: DEPLOY
 
 substitutions:
-    _FUNCTION_PROJECT : Fintech
+    _FUNCTION_PROJECT : 619684254187
     _FUNCTION_NAME    : Nodejs-app
     _FUNCTION_REGION  : us-central1
     _FUNCTION_RUNTIME : nodejs16

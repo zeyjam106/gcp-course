@@ -25,7 +25,7 @@ steps:
   id: DEPLOY
 
 substitutions:
-    _PROJECT_ID : 619684254187
+    _PROJECT_ID :619684254187
     _FUNCTION_NAME    : Nodejs-app
     _FUNCTION_REGION  : us-central1
     _FUNCTION_RUNTIME : nodejs16
